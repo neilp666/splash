@@ -1,0 +1,22 @@
+@import 'bootstrap';
+
+body {
+
+	line-height: 1.5;
+	color: white;
+
+	background: url('splash3.jpg');
+	/* Full Page Background */
+	background-size: cover;
+	background-position: center;
+	background-attachment: fixed;
+
+}
+
+.box {
+	width: 350px;
+	margin: 100px auto;
+	padding: 20px;
+	background: black;
+	background-color: rgba(0,0,0,0.8);
+}
